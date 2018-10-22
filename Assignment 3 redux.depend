@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1521047596 source:c:\users\justice's pc\documents\cprojects\assignment 3 redux\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cmath>
+	<cstdlib>
+
